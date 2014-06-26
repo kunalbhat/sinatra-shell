@@ -94,4 +94,4 @@ web: bundle exec ruby app.rb -p \$PORT
 _EOF_
 
 # Bundle
-# bundle install --path vendor/
+bundle install --path vendor/
