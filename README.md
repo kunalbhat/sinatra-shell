@@ -6,12 +6,11 @@ This script relies on having these utilities installed.
 
 - rbenv
 - Bundler
-- Heroku CLI
 
 ### Run the script
 
 When run, this file creates a new folder in the current directory and generates
-the folders and files for a basic Sinatra project.
+inside that the folders and files for a basic Sinatra project.
 
 You can run the script a few ways (`bash`, `sh`, etc.):
 
